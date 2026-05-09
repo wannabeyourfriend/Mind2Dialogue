@@ -64,6 +64,9 @@ pip install -e evaluations
 multibench run personamem -- --api-base <server_endpoint> --model <run_name> --workers 64 --output-dir results/<run_name>/PersonaMem
 ```
 
+![overview](assets/overview.png)
+
+
 ### Codebase layout
 
 ```

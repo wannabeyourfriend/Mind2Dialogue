@@ -1,7 +1,7 @@
 [submodule "training"]
 	path = training
-	url = https://github.com/wannabeyourfriend/s3-sim-private-dev-repo.git
-	branch = model-trainer-deployer
+	url = https://github.com/wannabeyourfriend/p13n-training
+	branch = main
 [submodule "evaluations"]
 	path = evaluations
 	url = https://github.com/wannabeyourfriend/p13n-eval-harness
